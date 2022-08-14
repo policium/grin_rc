@@ -28,6 +28,7 @@
 
 ### キット以外に必要な部品を準備する
 
+![キー配列](https://user-images.githubusercontent.com/3132296/184517997-46335e94-6a34-457d-919d-be060dce6e9e.png)
 - Choc V1対応キーキャップ 17.5x16.5mm以下のサイズ
 - Kailh Chocスイッチ66個
 
