@@ -104,14 +104,14 @@
 ### チップ部品のはんだ付け
 
 フラックスを塗布してから、片方のパッドに予備はんだします。
-![IMG_20220812_204418](https://user-images.githubusercontent.com/3132296/184535738-2d754ac4-0466-409e-b996-f62616462318.jpg)
+<img src="https://user-images.githubusercontent.com/3132296/184535738-2d754ac4-0466-409e-b996-f62616462318.jpg" width="50%">
 パッドをこてで温めながら部品をピンセットで固定して仮はんだします。
-![IMG_20220812_204549](https://user-images.githubusercontent.com/3132296/184535757-cba9bc4b-cfa4-48cb-b1e3-fbe4d7df799b.jpg)
+<img src="https://user-images.githubusercontent.com/3132296/184535757-cba9bc4b-cfa4-48cb-b1e3-fbe4d7df799b.jpg" width="50%">
 反対側のパターンをはんだ付けしてから仮はんだした側も綺麗にはんだ付けします。
-![IMG_20220812_204637](https://user-images.githubusercontent.com/3132296/184535764-0454520a-ad06-4bf6-b21c-ffa48c4da335.jpg)
+<img src="https://user-images.githubusercontent.com/3132296/184535764-0454520a-ad06-4bf6-b21c-ffa48c4da335.jpg" width="50%">
 フラックスを除去します。
-![IMG_20220812_204705](https://user-images.githubusercontent.com/3132296/184535770-6dbacd05-e6ca-49a3-b7ca-29e98304d01c.jpg)
-![IMG_20220812_204807](https://user-images.githubusercontent.com/3132296/184535774-8ed4108c-405f-4446-87cc-94a1390d7b66.jpg)
+<img src="https://user-images.githubusercontent.com/3132296/184535770-6dbacd05-e6ca-49a3-b7ca-29e98304d01c.jpg" width="50%">
+<img src="https://user-images.githubusercontent.com/3132296/184535774-8ed4108c-405f-4446-87cc-94a1390d7b66.jpg" width="50%">
 
 ### IC部品のはんだ付け
 
