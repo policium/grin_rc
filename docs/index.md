@@ -116,7 +116,8 @@
 ### トリマコンデンサのはんだ付け
 
 シルクに従った向きにはんだ付けしてください。
-
+<img src="https://user-images.githubusercontent.com/3132296/184582545-ad02b40f-f5ad-4f4f-bbea-aad645dbeab0.jpg" width="25%">
+<img src="https://user-images.githubusercontent.com/3132296/184582561-86ccb1e2-e8df-4c02-900d-ec44eb890441.jpg" width="25%">  
 
 ### IC部品のはんだ付け
 
