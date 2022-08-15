@@ -138,12 +138,12 @@ OLEDの足は固いので大き目のニッパーを利用してください。�
 袋④からRGBLEDを取り出し、三角の目印とRGBLEDの足の切り欠きを合わせながら、穴にRGBLEDを差し込みます。  
 <img src="https://user-images.githubusercontent.com/3132296/184561927-5ec2cbff-6600-438e-a69e-d1087ca92108.jpg" width="25%">  
 
-フラックスを塗布してからはんだ付けします。RGBLEDは熱に弱いため長時間温めすぎないようにしてください。
-![IMG_20220811_112639](https://user-images.githubusercontent.com/3132296/184518361-01dc2ecb-4a13-46f9-ac80-30021d2d4720.jpg)
-![IMG_20220811_112726](https://user-images.githubusercontent.com/3132296/184518365-452a4d62-7ff4-4eea-bc94-521f69b211e2.jpg)
+フラックスを塗布してからはんだ付けします。RGBLEDは熱に弱いため長時間温めすぎないようにしてください。  
+<img src="https://user-images.githubusercontent.com/3132296/184561978-fc616f62-c0b6-46b9-bc6b-7c01f51278b3.jpg" width="25%">  
+<img src="https://user-images.githubusercontent.com/3132296/184561982-893cc023-a365-495e-ad32-d99394312fc1.jpg" width="25%">  
 
-フラックスを除去します。
-![IMG_20220811_112738](https://user-images.githubusercontent.com/3132296/184518366-bd958e7e-a50e-402b-a070-eac0604d48cd.jpg)
+フラックスを除去します。  
+<img src="https://user-images.githubusercontent.com/3132296/184562003-3bc0e751-550e-4e33-9e28-217fe200ed0f.jpg" width="25%">  
 
 PCに接続してLEDが点灯することを確認します。
 
