@@ -115,14 +115,14 @@
 
 ### IC部品のはんだ付け
 
-かどのパッド1か所に予備はんだします。
-![IMG_20220811_105408](https://user-images.githubusercontent.com/3132296/184518328-68a3130b-f093-445a-814f-b390fa175b29.jpg)
-パッドをこてで温めながら部品をピンセットで固定して仮はんだします。
-![IMG_20220811_105539](https://user-images.githubusercontent.com/3132296/184518335-40e0492b-0807-4488-abcb-378914fcab30.jpg)
-他の足にはんだ付けします。
-![IMG_20220811_105719](https://user-images.githubusercontent.com/3132296/184518341-82cce4e9-ddd0-44c1-bd4e-36071db0161e.jpg)
-フラックスを除去します。
-![IMG_20220811_105959](https://user-images.githubusercontent.com/3132296/184518343-7321a1db-2d02-4934-a9cd-f47ecca1a4bc.jpg)
+かどのパッド1か所に予備はんだします。  
+<img src="https://user-images.githubusercontent.com/3132296/184561582-306fe682-8e2d-43ca-8b99-23c0f8856373.jpg" width="25%">  
+パッドをこてで温めながら部品をピンセットで固定して仮はんだします。  
+<img src="https://user-images.githubusercontent.com/3132296/184561612-49794e85-6faf-4b29-9921-ab1520015607.jpg" width="25%">  
+他の足にはんだ付けします。  
+<img src="https://user-images.githubusercontent.com/3132296/184561634-93ea5f32-274f-4d13-8f81-7fd14d523529.jpg" width="25%">  
+フラックスを除去します。  
+<img src="https://user-images.githubusercontent.com/3132296/184561660-ad2d7693-f5e3-45f5-899e-d777de74e72f.jpg" width="25%">  
 
 ## ５．OLEDのはんだ付け
 
