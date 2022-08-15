@@ -127,6 +127,8 @@
 ## ５．OLEDのはんだ付け
 
 袋③からOLEDを取り出し、はんだ付けします。  
+取り付ける前にコネクタに黄色のテープが張り付けられていることを確認します。剝がれている場合はセロハンテープ等を貼り付けて絶縁してください。  
+<img src="https://user-images.githubusercontent.com/3132296/184564560-0312b95a-ce82-48d5-9333-46bf7f7f98fb.jpg" width="25%">
 <img src="https://user-images.githubusercontent.com/3132296/184563860-c64b7062-c393-49ea-8d0d-c242a7aab497.jpg" width="25%">  
 
 裏側の足はニッパーで切り取ってください。  
