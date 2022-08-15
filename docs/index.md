@@ -130,7 +130,7 @@
 <img src="https://user-images.githubusercontent.com/3132296/184563860-c64b7062-c393-49ea-8d0d-c242a7aab497.jpg" width="25%">  
 
 裏側の足はニッパーで切り取ってください。  
-<img src="https://user-images.githubusercontent.com/3132296/184563870-56463e8f-26a6-4ba6-9849-d4e471471e3b.jpg" width="25%">  
+<img src="https://user-images.githubusercontent.com/3132296/184563870-56463e8f-26a6-4ba6-9849-d4e471471e3b.jpg" width="25%">
 <img src="https://user-images.githubusercontent.com/3132296/184563874-a1ba4da2-2d5c-40ec-8a96-85fd644c42a3.jpg" width="25%">  
 
 ### ワンポイント
