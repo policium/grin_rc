@@ -136,7 +136,7 @@ OLEDの足は固いので大き目のニッパーを利用してください。�
 ## ６．RGBLEDのはんだ付け
 
 袋④からRGBLEDを取り出し、三角の目印とRGBLEDの足の切り欠きを合わせながら、穴にRGBLEDを差し込みます。  
-RGBLEDは番号の小さい順にはんだ付けしてください。
+RGBLEDは番号の小さい順にはんだ付けしてください。  
 <img src="https://user-images.githubusercontent.com/3132296/184561927-5ec2cbff-6600-438e-a69e-d1087ca92108.jpg" width="25%">  
 
 フラックスを塗布してからはんだ付けします。RGBLEDは熱に弱いため長時間温めすぎないようにしてください。  
