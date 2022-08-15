@@ -121,8 +121,8 @@
 ```
 重要
 IC部品には向きがあります！シルクの線の目印とICのポッチで向きを合わせてください。
-```  
-<img src="https://user-images.githubusercontent.com/3132296/184565629-eb9cdd5f-84a1-4b21-98b0-efbafbdc1147.jpg" width="25%">  
+```
+<img src="https://user-images.githubusercontent.com/3132296/184566023-e8063e86-b14c-4699-9d6a-394cc4821440.jpg" width="25%">  
 他の足にはんだ付けします。  
 <img src="https://user-images.githubusercontent.com/3132296/184561634-93ea5f32-274f-4d13-8f81-7fd14d523529.jpg" width="25%">  
 フラックスを除去します。  
@@ -149,7 +149,7 @@ OLEDの足は固いので大き目のニッパーを利用してください。
 
 RGBLEDは番号の小さい順にはんだ付けしてください。  
 袋④からRGBLEDを取り出し、三角の目印とRGBLEDの足の切り欠きを合わせながら、穴にRGBLEDを差し込みます。  
-<img src="https://user-images.githubusercontent.com/3132296/184565673-368d580d-917e-497f-8d20-8aa072125223.jpg" width="25%">  
+<img src="https://user-images.githubusercontent.com/3132296/184566091-fd26ca73-329e-4cd8-9d70-92109d34ba1f.jpg" width="25%">  
 
 フラックスを塗布してからはんだ付けします。RGBLEDは熱に弱いため長時間温めすぎないようにしてください。  
 <img src="https://user-images.githubusercontent.com/3132296/184561978-fc616f62-c0b6-46b9-bc6b-7c01f51278b3.jpg" width="25%">  
