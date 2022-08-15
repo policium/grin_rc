@@ -126,17 +126,20 @@
 
 ## ５．OLEDのはんだ付け
 
-袋③からOLEDを取り出し、はんだ付けします。
+袋③からOLEDを取り出し、はんだ付けします。  
+<img src="https://user-images.githubusercontent.com/3132296/184563860-c64b7062-c393-49ea-8d0d-c242a7aab497.jpg" width="25%">  
 
-裏側の足はニッパーで切り取ってください。
+裏側の足はニッパーで切り取ってください。  
+<img src="https://user-images.githubusercontent.com/3132296/184563870-56463e8f-26a6-4ba6-9849-d4e471471e3b.jpg" width="25%">  
+<img src="https://user-images.githubusercontent.com/3132296/184563874-a1ba4da2-2d5c-40ec-8a96-85fd644c42a3.jpg" width="25%">  
 
 ### ワンポイント
 OLEDの足は固いので大き目のニッパーを利用してください。また事前にマスキングテープで足をとめておくと足が飛び散らないようにできます。
 
 ## ６．RGBLEDのはんだ付け
 
-袋④からRGBLEDを取り出し、三角の目印とRGBLEDの足の切り欠きを合わせながら、穴にRGBLEDを差し込みます。  
 RGBLEDは番号の小さい順にはんだ付けしてください。  
+袋④からRGBLEDを取り出し、三角の目印とRGBLEDの足の切り欠きを合わせながら、穴にRGBLEDを差し込みます。  
 <img src="https://user-images.githubusercontent.com/3132296/184561927-5ec2cbff-6600-438e-a69e-d1087ca92108.jpg" width="25%">  
 
 フラックスを塗布してからはんだ付けします。RGBLEDは熱に弱いため長時間温めすぎないようにしてください。  
