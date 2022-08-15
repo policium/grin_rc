@@ -118,7 +118,8 @@
 かどのパッド1か所に予備はんだします。  
 <img src="https://user-images.githubusercontent.com/3132296/184561582-306fe682-8e2d-43ca-8b99-23c0f8856373.jpg" width="25%">  
 パッドをこてで温めながら部品をピンセットで固定して仮はんだします。  
-<img src="https://user-images.githubusercontent.com/3132296/184561612-49794e85-6faf-4b29-9921-ab1520015607.jpg" width="25%">  
+```IC部品には向きがあります！シルクの線の目印とICのポッチで向きを合わせてください。```
+<img src="https://user-images.githubusercontent.com/3132296/184564804-dfb8254f-1b0c-4ef2-ab34-fb993a1076b1.jpg" width="25%">  
 他の足にはんだ付けします。  
 <img src="https://user-images.githubusercontent.com/3132296/184561634-93ea5f32-274f-4d13-8f81-7fd14d523529.jpg" width="25%">  
 フラックスを除去します。  
