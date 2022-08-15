@@ -110,7 +110,7 @@
 反対側のパターンをはんだ付けしてから仮はんだした側も綺麗にはんだ付けします。  
 <img src="https://user-images.githubusercontent.com/3132296/184535764-0454520a-ad06-4bf6-b21c-ffa48c4da335.jpg" width="25%">  
 フラックスを除去します。  
-<img src="https://user-images.githubusercontent.com/3132296/184535770-6dbacd05-e6ca-49a3-b7ca-29e98304d01c.jpg" width="25%">  
+<img src="https://user-images.githubusercontent.com/3132296/184535770-6dbacd05-e6ca-49a3-b7ca-29e98304d01c.jpg" width="25%">
 <img src="https://user-images.githubusercontent.com/3132296/184535774-8ed4108c-405f-4446-87cc-94a1390d7b66.jpg" width="25%">  
 
 ### IC部品のはんだ付け
