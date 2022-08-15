@@ -113,6 +113,11 @@
 <img src="https://user-images.githubusercontent.com/3132296/184535770-6dbacd05-e6ca-49a3-b7ca-29e98304d01c.jpg" width="25%">
 <img src="https://user-images.githubusercontent.com/3132296/184535774-8ed4108c-405f-4446-87cc-94a1390d7b66.jpg" width="25%">  
 
+### トリマコンデンサのはんだ付け
+
+シルクに従った向きにはんだ付けしてください。
+
+
 ### IC部品のはんだ付け
 
 かどのパッド1か所に予備はんだします。  
