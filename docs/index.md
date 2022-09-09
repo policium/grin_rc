@@ -158,7 +158,7 @@ LEDをはんだ付けしてもLEDが光らない場合は先に下記のtestフ�
 https://github.com/policium/grin_rc/tree/main/firmware
 ```
 
-RGBLEDは番号の小さい順にはんだ付けしてください。  
+RGBLEDは番号の小さい順にはんだ付けしてください。また行ごとにLEDの向きが違うため気を付けてください。  
 袋④からRGBLEDを取り出し、三角の目印とRGBLEDの足の切り欠きを合わせながら、穴にRGBLEDを差し込みます。  
 <img src="https://user-images.githubusercontent.com/3132296/184566091-fd26ca73-329e-4cd8-9d70-92109d34ba1f.jpg" width="25%">  
 
