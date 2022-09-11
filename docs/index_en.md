@@ -10,8 +10,8 @@ This product is compatible with Kailh Choc switches. Keycaps must be 17.5x16.5mm
 
 ## Work Contents
 
-[1. Preparation](#%EF%BC%91%E4%BA%8B%E5%89%8D%E6%BA%96%E5%82%99)  
-[2. Confirmation of kit contents](#%EF%BC%92%E3%82%AD%E3%83%83%E3%83%88%E5%86%85%E5%AE%B9%E3%81%AE%E7%A2%BA%E8%AA%8D)  
+[1. Preparation](#1-preparation)  
+[2. Confirmation of kit contents](#2-confirmation-of-kit-contents)  
 [3. initial operation check](#%EF%BC%93%E5%88%9D%E6%9C%9F%E5%8B%95%E4%BD%9C%E7%A2%BA%E8%AA%8D)  
 [4. soldering of electronic components](#%EF%BC%94%E9%9B%BB%E5%AD%90%E9%83%A8%E5%93%81%E3%81%AE%E3%81%AF%E3%82%93%E3%81%A0%E4%BB%98%E3%81%91)  
 [5. Soldering of OLED](#%EF%BC%95oled%E3%81%AE%E3%81%AF%E3%82%93%E3%81%A0%E4%BB%98%E3%81%91)  
