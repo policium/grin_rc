@@ -16,7 +16,7 @@ This product is compatible with Kailh Choc switches. Keycaps must be 17.5x16.5mm
 [4. soldering of electronic components](#%EF%BC%94%E9%9B%BB%E5%AD%90%E9%83%A8%E5%93%81%E3%81%AE%E3%81%AF%E3%82%93%E3%81%A0%E4%BB%98%E3%81%91)  
 [5. Soldering of OLED](#%EF%BC%95oled%E3%81%AE%E3%81%AF%E3%82%93%E3%81%A0%E4%BB%98%E3%81%91)  
 [6. soldering of RGBLEDs](#%EF%BC%96rgbled%E3%81%AE%E3%81%AF%E3%82%93%E3%81%A0%E4%BB%98%E3%81%91)  
-[7. Soldering the switch socket](#%EF%BC%97%E3%82%B9%E3%82%A4%E3%83%83%E3%83%81%E3%82%BD%E3%82%B1%E3%83%83%E3%83%88%E3%81%AE%E3%81%91 AF%E3%82%93%E3%81%A0%E4%BB%98%E3%81%91)  
+[7. Soldering the switch socket](#%EF%BC%97%E3%82%B9%E3%82%A4%E3%83%83%E3%83%81%E3%82%BD%E3%82%B1%E3%83%83%E3%83%88%E3%81%AE%E3%81%AF%E3%82%93%E3%81%A0%E4%BB%98%E3%81%91)  
 [8. Adjustment of touch sensor](#%EF%BC%98%E3%82%BF%E3%83%83%E3%83%81%E3%82%BB%E3%83%B3%E3%82%B5%E3%83%BC%E3%81%AE%E8%AA%BF%E6%95%B4)
 [Bottom plate installation](#%EF%BC%99%E3%83%9C%E3%83%88%E3%83%A0%E3%83%97%E3%83%AC%E3%83%BC%E3%83%88%E3%81%AE%E5%8F%96%E3%82%8A%E4%BB%98%E4%BB%98%E3%BB%98%E3%83%A0 E4%BB%98%E3%81%91)  
 [10. Switch Plate/Switch Installation](#%EF%BC%91%EF%BC%90%E3%82%B9%E3%82%A4%E3%83%83%E3%83%81%E3%83%97%E3%83%AC%E3%83%BC %E3%83%88%E3%82%B9%E3%82%A4%E3%83%83%81%E3%81%AE%E5%8F%96%E3%82%8A%E4%BB%98%E3%81%91)  
@@ -28,7 +28,7 @@ This product is compatible with Kailh Choc switches. Keycaps must be 17.5x16.5mm
 
 ### Prepare necessary parts other than the kit.
 
-! [key arrangement](https://user-images.githubusercontent.com/3132296/184517997-46335e94-6a34-457d-919d-be060dce6e9e.png)
+![key arrangement](https://user-images.githubusercontent.com/3132296/184517997-46335e94-6a34-457d-919d-be060dce6e9e.png)
 - Choc V1 compatible keycaps 17.5x16.5mm or smaller
 - 66 Kailh Choc switches
 
