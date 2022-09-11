@@ -206,13 +206,13 @@ When the touch sensor responds, "TAP" is displayed on the OLED. Turn the trimmer
 ## 9. Bottom plate installation
 
 Take out 4 pieces each of the low head screw short and both female screw spacers M2x3mm from the bag (⑤) and install them in 4 places.  
-! [GRIN_RC_bottom_1](https://user-images.githubusercontent.com/3132296/188760339-a5c32d42-2da7-4533-b665-5af4510d60f8.png)
+![GRIN_RC_bottom_1](https://user-images.githubusercontent.com/3132296/188760339-a5c32d42-2da7-4533-b665-5af4510d60f8.png)
 
 Take out 3 pieces each of low head screw long and both female screw spacers M2x3mm from bag ⑤ and install them in 3 places.  
-! [GRIN_RC_bottom_2](https://user-images.githubusercontent.com/3132296/188760380-84f08afe-6251-4de5-be64-1ae502353ff0.png)
+![GRIN_RC_bottom_2](https://user-images.githubusercontent.com/3132296/188760380-84f08afe-6251-4de5-be64-1ae502353ff0.png)
 
 Take out one low head screw short and one M2x5mm double female screw spacer from bag ⑤ and install them one at a time.  
-! [GRIN_RC_bottom_3](https://user-images.githubusercontent.com/3132296/188760392-72a24b13-e2ac-40c5-8934-d73009b65aa0.png)
+![GRIN_RC_bottom_3](https://user-images.githubusercontent.com/3132296/188760392-72a24b13-e2ac-40c5-8934-d73009b65aa0.png)
 
 Lay the board on the bottom plate.  
 
@@ -221,7 +221,7 @@ Lay the board on the bottom plate.
 The fit of the switch plate and switch is hard. Install carefully so as not to damage the switch claws and terminals.
 
 Take out three M2x6mm double threaded spacers from the bag (6) and install them.
-! [GRIN_RC_pcb](https://user-images.githubusercontent.com/3132296/188761709-7392534e-0ecc-44b5-b47a-4761839bc401.png)
+![GRIN_RC_pcb](https://user-images.githubusercontent.com/3132296/188761709-7392534e-0ecc-44b5-b47a-4761839bc401.png)
 
 Attach the stabilizer to the switch plate. Apply grease beforehand if necessary.  
 Here is a view from the back.  
@@ -232,10 +232,10 @@ Attach some switches to the switch plate first.
 Lay the switch plate on top of the board. Be careful not to bend the switch terminals.  
 
 Take four medium low head screws and four black M2 washers from bag ⑥ and install them in four places while inserting the black M2 washers between the board and the switch plate.  
-! [GRIN_RC_top_1](https://user-images.githubusercontent.com/3132296/188760863-b3fa8d52-41c2-4f89-86fc-ff132f58ff5d.png)
+![GRIN_RC_top_1](https://user-images.githubusercontent.com/3132296/188760863-b3fa8d52-41c2-4f89-86fc-ff132f58ff5d.png)
 
 Take out one low head screw short from bag ⑤ and install it in one place.  
-! [GRIN_RC_top_2](https://user-images.githubusercontent.com/3132296/188761060-ef044fed-29c2-47a9-b4c3-6d23ac066c75.png)
+![GRIN_RC_top_2](https://user-images.githubusercontent.com/3132296/188761060-ef044fed-29c2-47a9-b4c3-6d23ac066c75.png)
 
 Install the switch.  
 
