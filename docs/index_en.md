@@ -149,7 +149,7 @@ Cut off the legs on the back side with nippers.
 One point.
 The legs of the OLED are hard, so use large nippers.
 Also, use masking tape to hold the legs in place beforehand to prevent them from flying apart.
-```` 6.
+````
 
 ## 6. Soldering the RGBLEDs
 
