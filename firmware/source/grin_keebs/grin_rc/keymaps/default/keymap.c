@@ -1,6 +1,5 @@
 #include QMK_KEYBOARD_H
-
-#include <print.h>
+#include <stdio.h>
 
 /*enum custom_keycodes
 {
@@ -9,11 +8,11 @@
 
 const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
     [0] = LAYOUT(
-        KC_ESC,  KC_1,    KC_2,    KC_3,    KC_4,    KC_5,    KC_6,    KC_7,    KC_8,    KC_9,    KC_0,    KC_MINS, KC_EQL,  KC_DEL,
+        KC_ESC,  KC_1,    KC_2,    KC_3,    KC_4,    KC_5,    KC_6,    KC_7,    KC_8,    KC_9,    KC_0,    KC_MINS, KC_EQL,  KC_BSPC,
         KC_TAB,  KC_Q,    KC_W,    KC_E,    KC_R,    KC_T,    KC_Y,    KC_U,    KC_I,    KC_O,    KC_P,    KC_LBRC, KC_RBRC, KC_BSLS,
         KC_CAPS, KC_A,    KC_S,    KC_D,    KC_F,    KC_G,    KC_H,    KC_J,    KC_K,    KC_L,    KC_SCLN, KC_QUOT, KC_ENT,
         KC_LSFT, KC_Z,    KC_X,    KC_C,    KC_V,    KC_B,    KC_N,    KC_M,    KC_COMM, KC_DOT,  KC_SLSH, KC_UP,
-        KC_LCTL, KC_LGUI, KC_LALT, MO(2),   LT(1,KC_LANG2),   KC_SPC,  KC_BSPC,  LT(1,KC_LANG1),   KC_RALT, KC_RCTL, KC_LEFT, KC_DOWN, KC_RGHT
+        KC_LCTL, KC_LGUI, KC_LALT, MO(2),   LT(1,KC_LANG2),   KC_SPC,  KC_SPC,  LT(1,KC_LANG1),   KC_RALT, KC_RCTL, KC_LEFT, KC_DOWN, KC_RGHT
     ),
     [1] = LAYOUT(
         KC_GRV,  KC_F1,   KC_F2,   KC_F3,   KC_F4,   KC_F5,   KC_F6,   KC_F7,   KC_F8,   KC_F9,   KC_F10,  KC_F11,  KC_F12,  KC_DEL,
@@ -440,10 +439,11 @@ void Keyboard_pre_init_user(void) {
 }
 
 void keyboard_post_init_user(void) {
-    //debug_enable=true;
+    debug_enable=true;
     //debug_matrix=true;
     //debug_keyboard=true;
     //debug_mouse=true;
+    rgb_matrix_mode_noeeprom(RGB_MATRIX_SOLID_COLOR);
 }
 
 void matrix_scan_user(void) {
@@ -908,15 +908,14 @@ bool oled_task_user(void) {
 
     oled_set_cursor(0, 1);
     uint8_t wpm = get_current_wpm();
-    oled_write_P(PSTR("w:"), false);
     char buffer[256];
-    snprintf(buffer, 3, "%3d", wpm);
-    oled_write_P(PSTR(itoa(wpm,buffer,10)), false);
+    snprintf(buffer, sizeof(buffer), "w:%3d", wpm);
+    oled_write_P(PSTR(buffer), false);
 
     oled_set_cursor(0, 2);
     uint8_t layer = get_highest_layer(layer_state);
-    oled_write_P(PSTR("l:"), false);
-    oled_write_P(PSTR(itoa(layer,buffer,10)), false);
+    snprintf(buffer, sizeof(buffer), "l:%d", layer);
+    oled_write_P(PSTR(buffer), false);
 
     oled_set_cursor(0, 3);
     switch(mode){

@@ -92,7 +92,8 @@ void Keyboard_pre_init_user(void) {
 
 void keyboard_post_init_user(void) {
     rgblight_enable_noeeprom();
-    rgb_matrix_sethsv_noeeprom(HSV_RED);
+    rgb_matrix_mode_noeeprom(RGB_MATRIX_SOLID_COLOR);
+    rgb_matrix_sethsv_noeeprom(HSV_BLUE);
 }
 
 #ifdef OLED_ENABLE

@@ -4,7 +4,7 @@
 
 *A short description of the keyboard/project*
 
-* Keyboard Maintainer: [GRIN keebs](https://github.com/policium)
+* Keyboard Maintainer: [GRINkeebs](https://github.com/policium)
 * Hardware Supported: *The PCBs, controllers supported*
 * Hardware Availability: *Links to where you can find this hardware*
 

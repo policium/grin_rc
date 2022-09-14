@@ -1,5 +1,5 @@
 {
-    "manufacturer": "GRIN keebs",
+    "manufacturer": "GRINkeebs",
     "keyboard_name": "GRIN RC",
     "maintainer": "policium",
     "bootloader": "stm32-dfu",
@@ -7,7 +7,7 @@
     "features": {
         "bootmagic": true,
         "command": false,
-        "console": true,
+        "console": false,
         "extrakey": true,
         "mousekey": true,
         "nkro": true,
@@ -20,9 +20,9 @@
     "processor": "STM32F411",
     "url": "",
     "usb": {
-        "device_version": "1.0.0",
+        "vid": "0x476B",
         "pid": "0x0002",
-        "vid": "0x476B"
+        "device_version": "1.0.0"
     },
     "layouts": {
         "LAYOUT": {
