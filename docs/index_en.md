@@ -88,7 +88,7 @@ If any of the items are missing, please send us a message using the mail icon at
 
 ## 3. Initial operation check
 
-Remove the board from the bag ①.  
+Remove the board from the bag (1).  
 The firmware for operation check has already been written on the board as shipped. First, confirm that it works properly.  
 
 #### Connect to PC and confirm that it is recognized.
