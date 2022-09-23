@@ -53,7 +53,8 @@ If any of the items are missing, please send us a message using the mail icon at
 * Switch plate
 * Bottom plate
 
-### Bag② * PCB * Switch Plate * Bottom Plate
+### Bag (2)
+* PCB * Switch Plate * Bottom Plate
 * 0603 Chip resistor 2.2k 1 pcs.
 * 0603 Chip resistor 10k 1 pcs.
 * 0603 Chip capacitor 30pF 8 pcs.
@@ -64,21 +65,24 @@ If any of the items are missing, please send us a message using the mail icon at
 ### Bag (3)
 * OLED module
 
-OLED module ### Bag ④ * 66 RGBLEDs
+### Bag (4)
 * RGBLED 66 pcs.
 * Switch socket 66 pcs.
 
-### Bag ⑤ * Low head screw short M2x2.5mm 6 pcs.
+### Bag (5)
+* Low head screw short M2x2.5mm 6 pcs.
 * Low head screw short M2x2.5mm 6 pcs.
 * Low head screw long M2x8mm 3 pcs.
 * Spacer for both female screws M2x3mm 7 pcs.
 * M2x5mm double female screw spacer 1 pc.
 
-### Bag ⑥
+### Bag (6)
 * M2 washer black 4 pcs.
 * Low head screw middle M2x5mm 4 pcs.
 * M2 screw spacer M2x5mm 3 pcs.
 * M2 precision screw M2x4mm 3 pcs.
+
+### Bag (7)
 * Display cover (acrylic plate)
 * Rubber feet
 
@@ -245,9 +249,9 @@ Push it in with tweezers while holding down the nails. (Since it is hard, the cl
 
 ## 11. Attach the display cover
 
-Remove the display cover from the bag (6) and remove the protective paper.
+Remove the display cover from the bag (7) and remove the protective paper.
 
-Take out three M2 precision screws from the bag (6) and attach the display cover.
+Take out three M2 precision screws from the bag (7) and attach the display cover.
 
 ## 12. Writing the firmware
 
